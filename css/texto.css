@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+}
+.block{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10rem;
+}
+.topic{
+    background-color: grey;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.pic{
+    float:left;
+}
